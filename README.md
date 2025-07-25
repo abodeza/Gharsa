@@ -184,7 +184,7 @@ Gharsa/
 
 ## 🌐 Deployment
 
-Gharsa is fully deployed, with its backend models hosted on external servers and seamlessly connected to the Streamlit-based frontend.
+Gharsa was fully deployed for the demo period (currently offline), with its backend models hosted on external servers and seamlessly connected to the Streamlit-based frontend.
 
 ###  Backend Deployment (FastAPI)
 
@@ -201,8 +201,6 @@ These APIs are deployed on  server and can be accessed directly or via the front
 ###  Frontend Deployment (Streamlit)
 
 The user-facing interface, built with Streamlit, allows users to upload images and get real-time results using the APIs above.
-
-> 🔗 https://saints-financial-orlando-folder.trycloudflare.com/
 
 ## 👨‍👩‍👧‍👦 Team Members
 
